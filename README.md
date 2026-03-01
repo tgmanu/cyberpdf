@@ -6,7 +6,7 @@ Convert text & Markdown into cyberpunk PDFs. No signup. No API. Just clean conve
 
 ## Live Demo
 
-[https://cyberpdf.vercel.app/](https://cyberpdf-vert.vercel.app)
+[[https://cyberpdf.vercel.app/](https://cyberpdf-vert.vercel.app)](https://cyberpdf-vert.vercel.app/)
 
 ---
 
